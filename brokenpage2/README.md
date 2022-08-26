@@ -2,7 +2,7 @@
 
 Try to make `index.html` look as close to the screen shot below as you can. Put all your css changes in `new-styles.css`.
 
-Make sure page has proper HTML markup and follows good accessibility standards. 
+Make sure page has proper HTML markup and follows good accessibility standards. Bootstrap 5 classes are available to use as well. 
 
 ## Large screen:
 
